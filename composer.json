@@ -11,7 +11,7 @@
   },
   "require-dev": {
     "laravel/framework": ">=5",
-    "phpunit/phpunit": ">=8.4*"
+    "phpunit/phpunit": ">=8"
   },
   "suggest": {
     "ext-mqseries": "To actually use this library, you'll have to install the PECL extension mqseries"
